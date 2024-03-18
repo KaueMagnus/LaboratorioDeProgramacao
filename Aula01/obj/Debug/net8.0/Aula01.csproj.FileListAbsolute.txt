@@ -1,0 +1,10 @@
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/bin/Debug/net8.0/Aula01
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/bin/Debug/net8.0/Aula01.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/bin/Debug/net8.0/Aula01.pdb
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/Aula01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/Aula01.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/Aula01.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/Aula01.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/Aula01.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/refint/Aula01.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula01/obj/Debug/net8.0/Aula01.pdb
