@@ -27,7 +27,7 @@ System.Console.WriteLine("\nTipos por valor armazenam diretamente os valores, en
 System.Console.WriteLine("\nNullable Types é um recurso do C# que nos permite atribuir o valor null a um tipo de dado que, por padrão, não aceita valores nulos: os tipos primitivos. Isso é útil em situações onde um valor pode ser desconhecido, inexistente ou inválido.");
 
 
-// O que é Camel Case ? Dê um exemplo de sua aplicação.
+// O que é camel Case ? Dê um exemplo de sua aplicação.
 System.Console.WriteLine("\nA primeira letra de cada palavra é escrita em maiúscula, exceto a primeira palavra. Em C#, a convenção de nomenclatura camelCase é usada para nomear variáveis, parâmetros de método e propriedades. Ex: idadeDoAluno");
 
 
