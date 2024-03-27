@@ -14,14 +14,14 @@ System.Console.WriteLine($"{nome} tem {idade} anos\n e \nnota {nota}");
 // ( ) int
 // (X) double
 // ( ) long
-// ( ) decimal 
+// (X) decimal 
  
 
 // Em qual conversão numérica você precisaria realizar o casting (convesão forçada) ?
 // ( ) int para long
 // (X) double para long
-// ( ) double para float
-// ( ) decimal para float
+// (X) double para float
+// (X) decimal para float
 // (X) long para int
 // (X) double para decimal
  
@@ -29,13 +29,13 @@ System.Console.WriteLine($"{nome} tem {idade} anos\n e \nnota {nota}");
 // Escreva um programa que recebe 3 letras via teclado e as exiba na ordem reversa usando
 // a concatenação e também a interpolação de strings
 System.Console.WriteLine("Insira uma letra: ");
-string letra1 = Console.ReadLine();
+char letra1 = char.Parse(Console.ReadLine());
 
 System.Console.WriteLine("Insira outra letra: ");
-string letra2 = Console.ReadLine();
+char letra2 = char.Parse(Console.ReadLine());
 
 System.Console.WriteLine("Insira mais uma letra: ");
-string letra3 = Console.ReadLine();
+char letra3 = char.Parse(Console.ReadLine());
 
 System.Console.WriteLine($"Interpolação: {letra3}, {letra2}, {letra1}");
 System.Console.WriteLine("Concatenação: " + letra3 + ", " + letra2 + ", " + letra1);
@@ -44,13 +44,13 @@ System.Console.WriteLine("Concatenação: " + letra3 + ", " + letra2 + ", " + le
 // Marque verdadeiro(V) ou falso(F) para os códigos abaixo:
 // (F) long resultado = 1.32;
 // (v) var nome = “Maria”;
-// (F) string resultado = 100.ToString();
+// (V) string resultado = 100.ToString();
 // (V) A sequência de escape \n inclui uma nova linha
-// (V) float f = 5.45;
+// (F) float f = 5.45;
 // (V) decimal valor = (decimal) 10.99f;
-// (V) var status = null;
-// (F) object o = 12.45m;
-// (F) string titulo = true.ToString();
+// (F) var status = null;
+// (V) object o = 12.45m;
+// (V) string titulo = true.ToString();
 // (F) A sequencia \t inclui uma tabulação vertical
  
 
