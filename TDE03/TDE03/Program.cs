@@ -249,8 +249,49 @@ do {
 // inteiros. (considere que na divisão podemos ter números fracionários e que não existe divisão por zero e 
 // quando isso ocorrer exibir uma mensagem de alerta
 
-double num1, num2;
-
+int num1, num2;
+float resposta;
 string operacao;
+
+System.Console.WriteLine("Informe o primeiro número: ");
+num1 = int.Parse(Console.ReadLine());
+
+System.Console.WriteLine("Informe a operação (*, -, +, /): ");
+operacao = Console.ReadLine();
+
+System.Console.WriteLine("Informe o segundo número: ");
+num2 = int.Parse(Console.ReadLine());
+
+switch (operacao) {
+
+    case "+":
+        resposta = num1 + num2;
+        break;
+    case "-":
+        resposta = num1 - num2;
+        break;
+    case "*":
+        resposta = num1 * num2;
+        break;
+    case "/":
+        if (num1 != 0 && num2 != 0) {
+            resposta = (float) num1 / num2;
+        } else {
+            System.Console.WriteLine("Impossivel dividir com 0.");
+            break;
+        }
+        
+        break;
+
+    default:
+        System.Console.WriteLine("Operação inválida!");
+        break;    
+}
+
+System.Console.WriteLine($"{num1} {operacao} {num2} = {resposta}");
+
+
+
+
 
 
