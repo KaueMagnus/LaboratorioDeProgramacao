@@ -1,0 +1,11 @@
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/bin/Debug/net8.0/AP1
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/bin/Debug/net8.0/AP1.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/bin/Debug/net8.0/AP1.pdb
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.sourcelink.json
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/refint/AP1.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/AP1/AP1/obj/Debug/net8.0/AP1.pdb
