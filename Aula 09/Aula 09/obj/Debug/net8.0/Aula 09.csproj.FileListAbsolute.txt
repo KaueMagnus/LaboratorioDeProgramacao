@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/bin/Debug/net8.0/Aula 09
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/bin/Debug/net8.0/Aula 09.deps.json
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/bin/Debug/net8.0/Aula 09.runtimeconfig.json
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/bin/Debug/net8.0/Aula 09.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/bin/Debug/net8.0/Aula 09.pdb
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.sourcelink.json
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/refint/Aula 09.dll
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.pdb
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/Aula 09.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/Aula 09/Aula 09/obj/Debug/net8.0/ref/Aula 09.dll
