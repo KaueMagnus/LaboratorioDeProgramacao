@@ -1,7 +1,4 @@
 public class Carro : Veiculo {
-
-    
-
     public override void acelerar() {
         Console.WriteLine("Carro acelerando...");
         velocidade += 10;

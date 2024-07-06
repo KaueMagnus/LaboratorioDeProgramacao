@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/LPOO/DesafioLPOO/DesafioLPOO.csproj",
+      "projectUniqueName": "/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/LPOO/DesafioLPOO/DesafioLPOO.csproj",
       "projectName": "DesafioLPOO",
-      "projectPath": "/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/LPOO/DesafioLPOO/DesafioLPOO.csproj",
+      "projectPath": "/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/LPOO/DesafioLPOO/DesafioLPOO.csproj",
       "packagesPath": "/Users/kauemagnus/.nuget/packages/",
-      "outputPath": "/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/LPOO/DesafioLPOO/obj/",
+      "outputPath": "/Users/kauemagnus/Documents/Faculdade/Laboratório de Programação/LPOO/DesafioLPOO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kauemagnus/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,4 @@
-public class Livro {
+public abstract class Livro {
     private String titulo;
     private String autor;
     private double preco;
@@ -14,7 +14,7 @@ public class Livro {
         this.preco = preco;
     }
 
-    public void MostrarInfo () {
+    public abstract void MostrarInfo () {
         System.Console.WriteLine();
         System.Console.WriteLine("========LIVRO========");
         System.Console.WriteLine("Titulo: " + titulo);

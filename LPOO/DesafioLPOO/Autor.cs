@@ -8,11 +8,12 @@ public class Autor {
     }
 
     public void MostrarInfo() {
-        System.Console.WriteLine();
         Console.WriteLine("========AUTOR========");
         Console.WriteLine("Nome: " + nome);
         Console.WriteLine("Nacionalidade: " + nacionalidade);
         System.Console.WriteLine();
     }
+
+    
 
 }

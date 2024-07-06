@@ -13,7 +13,6 @@ String titulo = Console.ReadLine();
 System.Console.WriteLine("Informe o preço do livro: ");
 double preco = Convert.ToDouble(Console.ReadLine());
 
-
 Livro livro = new Livro(titulo, autor, preco);
 
 
